@@ -1,20 +1,20 @@
 const foto = document.getElementById("foto");
 
 const fotos = [
-"fotos/foto1.jpg",
-"fotos/foto2.jpg",
-"fotos/foto3.jpg",
-"fotos/foto4.jpg",
-"fotos/foto5.jpg",
-"fotos/foto6.jpg",
-"fotos/foto7.jpg",
-"fotos/foto8.jpg",
-"fotos/foto9.jpg",
-"fotos/foto10.jpg",
-"fotos/foto11.jpg",
-"fotos/foto12.jpg",
-"fotos/foto13.jpg",
-"fotos/foto14.jpg"
+  "foto1.jpg",
+  "foto2.jpg",
+  "foto3.jpg",
+  "foto4.jpg",
+  "foto5.jpg",
+  "foto6.jpg",
+  "foto7.jpg",
+  "foto8.jpg",
+  "foto9.jpg",
+  "foto10.jpg",
+  "foto11.jpg",
+  "foto12.jpg",
+  "foto13.jpg",
+  "foto14.jpg"
 ];
 
 let i = 0;
